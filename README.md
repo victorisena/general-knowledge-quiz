@@ -1,6 +1,6 @@
 # General Knowledge Quiz
 
-The project name is "General Knowledge Quiz". The goal of this project is to develop an application using Next.js that allows users to test their knowledge in various subjects through a quiz.
+The project name is "General Knowledge Quiz". The goal of this project is to develop an application using Next.js that allows users to test their knowledge in various subjects through a quiz using a component CountdownCircleTimer.
 
 ## Overview
 
